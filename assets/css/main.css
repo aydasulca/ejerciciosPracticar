@@ -1,7 +1,12 @@
 div {
   background-color: #ffff00;
   padding-bottom: 50px;
+  padding-top: 10px;
+  padding-left: 10px;
   font-family: Muli,sans-serif;
+  font-size: 20px;
+  width: 200px;
+  margin: 10px;
 }
 #es{
   background-color: #eb234e;
